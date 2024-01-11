@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/favicon.svg" style="width: 75px;height: 75px;">
     <h1>O-Material 3</h1>
-    Material 3 风格的 Onemanager 主题
+    Material 3 风格的 Onemanager 主题（国内cdn优化）
 </div>
 <br><br>
 
